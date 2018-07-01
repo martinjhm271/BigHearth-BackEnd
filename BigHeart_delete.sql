@@ -1,0 +1,1 @@
+DROP TABLE "public"."event" , "public"."organization", "public"."requirement", "public"."review", "public"."rol_user", "public"."volunteer", "public"."volunteer_event" cascade;
